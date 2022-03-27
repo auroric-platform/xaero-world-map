@@ -10,11 +10,15 @@ If you wish to insatll the mod yourself using Fabric or Forge you can download t
 
 ## 🔧 Installation
 ### Windows
-Place the unziped folder under `%APPDATA%\.minecraft\XaeroWorldMap`
+Unziped the folder and place the `Multiplayer_play.auroric.net` under `%APPDATA%\.minecraft\XaeroWorldMap`
 
 ### MacOS
-Place the unziped folder under `~/Library/Application Support/minecraft/XaeroWorldMap`
+Unziped the folder and place the `Multiplayer_play.auroric.net` under `~/Library/Application Support/minecraft/XaeroWorldMap`
 
 
 ## 💾 Download
 You can find the downloads for each version with their release notes in the [releases page](https://github.com/auroric-platform/xaero-world-map/releases).
+
+
+## 🗓 Update
+We will provide monthly updates to our pre-rendered Xaero's WorldMap. You can `Star` and `Watch` this repository to get latest update when it is released.
