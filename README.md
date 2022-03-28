@@ -12,7 +12,7 @@ The up-to-date version of a pre-rendered world map using the Xaero's WorldMap mo
 ## 🔗 Requirement
 The rendered map is used for the Xaero's WorldMap mod, which is included in our [Official Fabric Mod List](https://github.com/auroric-platform/fabric-mods).
 
-If you wish to install the mod yourself using Fabric or Forge you can download the mod [here](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files).
+If you wish to install the mod yourself using [Fabric](https://fabricmc.net/use/installer/) or [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) you can download the mod [here](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files).
 
 
 ## 🔧 Installation
