@@ -1,3 +1,10 @@
+<!-- Variables (this block will not be visible in the readme -->
+[banner]: https://i.imgur.com/xB30pNm.png
+[spigot]: https://github.com/auroric-platform/xaero-world-map/
+<!-- End of variables block -->
+
+[![Logo][banner]][spigot]
+
 # Xaero's WorldMap
 The up-to-date version of a pre-rendered world map using the Xaero's WorldMap mod.
 
