@@ -1,5 +1,5 @@
 <!-- Variables (this block will not be visible in the readme -->
-[banner]: https://i.imgur.com/chz98h1.png
+[banner]: https://i.imgur.com/GridNlA.png
 [link]: https://github.com/auroric-platform/xaero-world-map/
 <!-- End of variables block -->
 
